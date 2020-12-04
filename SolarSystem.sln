@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "SolarSystem\SolarSystem.csproj", "{513F3F99-3BF9-4FEB-AFE8-CC1E9E119454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetsMass", "PlanetsMass\PlanetsMass.csproj", "{FD8AEDBD-9AF3-4460-B22B-53EA80AFCA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{513F3F99-3BF9-4FEB-AFE8-CC1E9E119454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513F3F99-3BF9-4FEB-AFE8-CC1E9E119454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513F3F99-3BF9-4FEB-AFE8-CC1E9E119454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513F3F99-3BF9-4FEB-AFE8-CC1E9E119454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8AEDBD-9AF3-4460-B22B-53EA80AFCA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8AEDBD-9AF3-4460-B22B-53EA80AFCA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8AEDBD-9AF3-4460-B22B-53EA80AFCA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8AEDBD-9AF3-4460-B22B-53EA80AFCA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16ACE0B5-2E87-4FEC-BCD3-E7A4591B8884}
+	EndGlobalSection
+EndGlobal
